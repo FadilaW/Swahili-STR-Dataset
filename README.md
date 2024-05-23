@@ -3,7 +3,7 @@
 
 Accepted by ICDAR 2024
 
-The link of our paper: 
+The link of our paper: https://arxiv.org/abs/2405.11437
 
 Researchers and developers can download the dataset, including the full images, cropped word images, and annotations, from our official repository.
 
